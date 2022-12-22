@@ -2,7 +2,7 @@
 
 ## Запуск программы:
 
-java CheckBuilder 1-2 4-7 5-1 card-12345
+java CheckRunner 1-2 4-7 5-1 card-12345
 
 ## Выполнено:
 
